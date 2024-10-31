@@ -1,1 +1,1 @@
-worker: bash start
+sos: may be later
